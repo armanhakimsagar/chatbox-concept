@@ -10,3 +10,6 @@ facebook-like-chat
 4. In chatbox : select * message from reply_box where clientid = 1 && friends_id = 1;
 
 5. After submit for reply . Insert into reply_box(client_id , friends_id , message)
+
+
+Database : See Database diagram 
