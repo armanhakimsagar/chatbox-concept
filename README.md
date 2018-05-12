@@ -1,9 +1,12 @@
 facebook-like-chat
 ==================
 
-A small script to demonstrate facebook like chat application using html jquery and css
+1. create online_active_box table. it will loop for online avaiable friend list.
 
-Demo : http://packetcode.com/apps/facebook-like-chat/
+2. create reply_box table with client_id , friends_id , message .
 
-The application development has been captured to videos..check out the playlist to learn the code bit by bit
-Videos : http://www.youtube.com/playlist?list=PLNeMoaZ9VHP9zQd08bOnxZYdAyTS5e-r6
+3. After click online avaiable friend list a box witll open pass friends_id.
+
+4. In chatbox : select * message from reply_box where clientid = 1 && friends_id = 1;
+
+5. 
